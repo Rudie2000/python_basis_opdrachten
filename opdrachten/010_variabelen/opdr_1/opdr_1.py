@@ -5,3 +5,8 @@
 # Hier komt je code...
 
 my_list = ...
+
+
+test
+
+hasattr
