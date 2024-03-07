@@ -6,7 +6,7 @@
 
 
  
-kerstboom_1 = "     *   "
+kerstboom_1 = "    *   "
 kerstboom_2= "    ***  "
 kerstboom_3= "   ******    "
 kerstboom_4= "  ********   "
