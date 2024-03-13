@@ -6,4 +6,11 @@
 
 # Hier start de for-loop
 
-my_list = []
+teller = []
+
+for i in range (3, 82, 3):
+    berekening = (i ** 2) /3
+    teller.append(berekening) 
+
+print(teller)
+

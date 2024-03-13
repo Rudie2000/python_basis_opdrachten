@@ -6,4 +6,12 @@
 
 # Hier start de for-loop....
 
-my_list = []
+teller = [] 
+
+
+for i in range(1, 11): 
+    teller.append(i)
+
+print(teller)
+
+
