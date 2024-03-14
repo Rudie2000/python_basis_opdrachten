@@ -12,3 +12,4 @@ Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial
 Maak gebruik van een for-loop en een if-statement om de getallen die deelbaar zijn door 3 op het scherm te tonen
 Gebruik deze getallen [43948, 878768, 38768, 87555, 765765]
 
+
