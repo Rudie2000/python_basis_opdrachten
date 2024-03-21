@@ -1,0 +1,22 @@
+----
+voornaam: rudie
+achternaam: Toeter
+drank: benzine
+eten: steen
+----
+----
+voornaam: Henk
+achternaam: Henks
+drank: Water
+eten: Baksteen
+----
+----
+voornaam: Rudie
+achternaam: Toeter
+drank: Pils
+eten: Pizza
+----
+voornaam: test
+achternaam: test
+drank: test
+eten: test
